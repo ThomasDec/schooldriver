@@ -64,7 +64,7 @@ meld3==1.0.0
 newrelic==2.38.0.31
 oauthlib==0.7.2
 odfpy==0.9.6
-openpyxl==2.1.2
+openpyxl==2.4.2
 polib==1.0.5
 poster==0.8.1
 PyJWT==0.3.0
